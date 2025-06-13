@@ -30,6 +30,8 @@ I am Haitham, a **.NET Backend Developer & FullStack Desktop Developer** 🖥️
 
 📫 **Feel free to connect!** I’d love to collaborate and exchange ideas 🤝 🚀.
 
+🔗 **Find me on LinkedIn**: [Haitham Mustafa](https://www.linkedin.com/in/haitham-mustafa-080515320/)  
+
 ## 🔥 SKILLS 🔥  
 ### 🖥️ .NET Backend Development  
 ### ⚡ FullStack Desktop Development  
