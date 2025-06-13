@@ -1,5 +1,10 @@
 # Welcome to My Repository! 👋
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Back+End+developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
+</p>
+
 I am Haitham, a **.NET Backend Developer & FullStack Desktop Developer** 🖥️, specializing in **C#, C++, SQL, T-SQL, ADO.NET, .NET Framework, and Windows Forms** ⚙️. My focus is on building efficient, secure, and user-friendly software solutions 🚀.
 
 📌 **Areas of Expertise & Interests:**
