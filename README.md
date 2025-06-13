@@ -1,5 +1,5 @@
 # Welcome to My Repository! 👋
-
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+Back+End+developer.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
